@@ -10,5 +10,5 @@
 - Password: nRCybw5Hac
 - Port number: 3306
 
-# После выполнения "composer install" и "docker-compose up -d", создания файла .env в файловой системе linux может потребоваться выполнение команды "sudo chmod 777 -R ./"
+# После создания файла .env, выполнения команд "composer install" и "docker-compose up -d" в файловой системе linux может потребоваться выполнение команды "sudo chmod 777 -R ./"
 
